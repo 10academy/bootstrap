@@ -1,9 +1,6 @@
 10academy Bootstrap
 ===============
 
-> Build a docker image that serves static content with Nginx
-
-
 ### Prerequisites
 * [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * [Make](https://www.gnu.org/software/make)
@@ -19,4 +16,4 @@ $ make init ## Builds and sets up containers
 zzzzz...
 
 Done finally?!! Phew!
-* Visit your [localhost](http://localhost) to view website
+* Visit your [localhost:8080](http://localhost:8080) to view website
